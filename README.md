@@ -12,8 +12,6 @@
 
 ![image](Slide6.JPG)
 
-![image](Slide7.JPG)
-
 ![image](Slide8.JPG)
 
 ![image](Slide9.JPG)
