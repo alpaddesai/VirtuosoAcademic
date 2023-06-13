@@ -42,4 +42,6 @@
 
 ![image](Slide25.JPG)
 
+![image](EthicsandExcellence.png)
+
 Additional details reference https://github.com/alpaddesai/ArchitecturalProductDesign
